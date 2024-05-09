@@ -1,4 +1,4 @@
-# EX5Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# EX5 Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## Aim:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
